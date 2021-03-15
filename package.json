@@ -82,5 +82,8 @@
   },
   "scripts": {
     "heroku-postbuild": "npx webpack-cli -p"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
